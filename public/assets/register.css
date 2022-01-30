@@ -1,0 +1,27 @@
+body {
+     background: url('http://getwallpapers.com/wallpaper/full/f/1/0/20960.jpg');
+      background-size: cover;
+}
+
+*[role="form"] {
+    max-width: 530px;
+    padding: 15px;
+    margin: 0 auto;
+     border-radius: 8.3em !important;
+    background-color: rgba(0,0,0,0.55);
+}
+
+*[role="form"] h3 { 
+    font-family: 'Open Sans' , sans-serif;
+    font-size: 40px;
+    font-weight: 600;
+    color: #000000;
+    margin-top: 5%;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+   
+}
+label {
+    color: white;
+}
